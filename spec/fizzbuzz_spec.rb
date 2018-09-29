@@ -7,7 +7,7 @@ describe "fizzbuzz" do
       
     end
     fizz_3 = fizzbuzz
-fizzbuzz == / 3
+if fizzbuzz 
 puts TRUE
 else FALSE
 end
