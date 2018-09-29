@@ -10,4 +10,3 @@ def fizzbuzz(number)
   else
     return nil
 end
-end
