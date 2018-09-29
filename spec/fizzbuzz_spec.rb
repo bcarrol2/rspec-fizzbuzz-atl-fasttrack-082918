@@ -6,9 +6,8 @@ describe "fizzbuzz" do
     def fizzbuzz
       
     end
-    fizz_3 = fizzbuzz(3)
-fizzbuzz(3) == "Fizz"
-if fizzbuzz(3) / 3
+    fizz_3 = fizzbuzz
+fizzbuzz ==/ 3
 puts TRUE
 else FALSE
 end
