@@ -11,4 +11,3 @@ def fizzbuzz(number)
     return "Fizzbuzz"
   end
 end
-
