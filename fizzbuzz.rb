@@ -7,10 +7,8 @@ def fizzbuzz(number)
 end
 if number % 5 == 0
     return "Buzz"
-   end
+
   else
     return nil
 end
-z"def fizzbuzz(number)
- def return_string += "Fiz
   
