@@ -8,9 +8,9 @@ end
 if number % 5 == 0
     return "Buzz"
    end
-   if return_string += "Fizz"
   else
     return nil
 end
 def fizzbuzz(number)
+ def return_string += "Fizz"
   
