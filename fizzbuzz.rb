@@ -8,7 +8,7 @@ def fizzbuzz(number)
   if number % 5 == 0
     return "Buzz"
   end  
-  if number % 3 == 1 && number % 5 == 1
+  if number % 3 == 0 && number % 5 == 0
     return "Fizzbuzz"
   end
 end
