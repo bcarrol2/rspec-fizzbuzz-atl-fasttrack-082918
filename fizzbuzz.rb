@@ -11,6 +11,6 @@ if number % 5 == 0
   else
     return nil
 end
-def fizzbuzz(number)
- def return_string += "Fizz"
+z"def fizzbuzz(number)
+ def return_string += "Fiz
   
