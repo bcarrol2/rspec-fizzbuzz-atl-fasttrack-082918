@@ -6,7 +6,7 @@ describe "fizzbuzz" do
     def fizzbuzz
       
     end
-    fizz_3 = fizz
+    fizz_3 = fizzbuzz
 if fizzbuzz 
 puts TRUE
 else FALSE
