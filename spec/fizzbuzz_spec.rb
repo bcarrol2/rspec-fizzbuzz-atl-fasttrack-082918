@@ -3,6 +3,9 @@ require_relative './spec_helper.rb'
 
 describe "fizzbuzz" do
   it 'returns "Fizz" when the number is divisible by 3' do
+    def fizzbuzz
+      
+    end
     fizz_3 = fizzbuzz(3)
 fizzbuzz(3) == "Fizz"
 if fizzbuzz(3) / 3
